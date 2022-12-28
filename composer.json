@@ -1,0 +1,17 @@
+{
+    "name": "simeon/simeon",
+    "description": "phpmailer",
+    "autoload": {
+        "psr-4": {
+            "Simeon\\Simeon\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "simeon"
+        }
+    ],
+    "require": {
+        "phpmailer/phpmailer": "^6.6"
+    }
+}
